@@ -5,7 +5,7 @@
 git init
 git add .
 git commit -am "some"
-
+git remote add origin git@github.com:jirengu/myblogtest.git
 ```
 
 ## 命令的行的使用
