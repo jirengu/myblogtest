@@ -1,7 +1,12 @@
 # 学习 git github 命令行的使用
 
 ## Git
+```
+git init
+git add .
+git commit -am "some"
 
+```
 
 ## 命令的行的使用
 ```
